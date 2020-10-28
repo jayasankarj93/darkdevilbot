@@ -52,7 +52,7 @@ And the following:
 
 darkdevilbot_IMG = "https://telegra.ph/file/728bf647412191bc16495.jpg"
 
-DONATE_STRING = """Heya, glad to hear you want to donate!
+DONATE_STRING = """ Heya, glad to hear you want to donate!
 ☠️ DARKDEVILBOT ☠️ is hosted on one of Kaizoku's Servers and doesn't require any donations as of now but \
 You can donate to the original writer of the Base code, @me_sreenta
 There are two ways of supporting him; ."""
